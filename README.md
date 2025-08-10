@@ -5,7 +5,7 @@ This repository contains my learnings and practice work from the **Skills4Future
 ### Tools & Technologies
 - **Language:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Environment:** Jupyter Notebook / Google Colab  
+- **Environment:** Jupyter Notebook / Google Colab 
 
 ### Supervised Learning
 Supervised learning is used when the dataset contains both input features and corresponding output labels.
