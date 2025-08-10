@@ -1,4 +1,4 @@
-### Supervised Learning – Skills4Future Internship (Edunet Foundation)
+### Supervised Learning – Skills4Future Training Program / Internship (Edunet Foundation)
 
 This repository contains my learnings and projects from the **Supervised Learning** module of the Skills4Future Program by **Edunet Foundation**.  
 Supervised Learning involves training a model on labeled data to make predictions or classifications.
