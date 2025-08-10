@@ -1,14 +1,14 @@
-### 🎯 Supervised Learning – Skills4Future Internship (Edunet Foundation)
+### Supervised Learning – Skills4Future Internship (Edunet Foundation)
 
 This repository contains my learnings and projects from the **Supervised Learning** module of the Skills4Future Program by **Edunet Foundation**.  
 Supervised Learning involves training a model on labeled data to make predictions or classifications.
 
 ---
 
-### 📅 Duration
-Jan 2025 – Mar 2025
+### Duration
+Jan 2025 – Feb 2025
 
-### 📚 Topics Covered
+### Topics Covered
 - Linear Regression
 - Logistic Regression
 - Decision Trees & Random Forest
@@ -18,21 +18,21 @@ Jan 2025 – Mar 2025
 
 ---
 
-### 📂 Projects
+### Projects
 1. **House Price Prediction** – Linear Regression  
 2. **Iris Flower Classification** – Decision Tree & SVM  
 3. **Heart Disease Prediction** – Logistic Regression & Random Forest
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Python
 - Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook / Google Colab
 
 ---
 
-### 📜 Certificate
+### Certificate
 ![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/2a807574-833a-4ba5-bf3b-524e4ae5d1d8)
 
 
