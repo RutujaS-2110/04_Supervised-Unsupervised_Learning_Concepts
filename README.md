@@ -1,41 +1,34 @@
-### Supervised Learning – concepts
-This repository contains my learnings and projects from the **Supervised Learning** module of the Skills4Future Program by **Edunet Foundation**.  
-Supervised Learning involves training a model on labeled data to make predictions or classifications.
+### Machine Learning – Supervised & Unsupervised Learning
 
----
-
-### Duration
-Jan 2025 – Feb 2025
-
-### Topics Covered
-- Linear Regression
-- Logistic Regression
-- Decision Trees & Random Forest
-- Support Vector Machines (SVM)
-- k-Nearest Neighbors (k-NN)
-- Model Evaluation: Accuracy, Precision, Recall, F1-score
-
----
-
-### Projects
-1. **House Price Prediction** – Linear Regression  
-2. **Iris Flower Classification** – Decision Tree & SVM  
-3. **Heart Disease Prediction** – Logistic Regression & Random Forest
-
----
+This repository contains my learnings and practice work from the **Skills4Future Program** by **Edunet Foundation**, covering both **Supervised Learning** and **Unsupervised Learning** techniques in Machine Learning.
 
 ### Tools & Technologies
-- Python
-- Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- Jupyter Notebook / Google Colab
+- **Language:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook / Google Colab  
+
+### Supervised Learning
+Supervised learning is used when the dataset contains both input features and corresponding output labels.
+
+**Topics Learned:**
+- Linear Regression  
+- Logistic Regression  
+- Decision Trees & Random Forest  
+- Support Vector Machines (SVM)  
+- k-Nearest Neighbors (k-NN)  
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix  
+
+### Unsupervised Learning
+Unsupervised learning is used when the dataset has no output labels, and the goal is to find hidden patterns.
+
+**Topics Learned:**
+- k-Means Clustering  
+- Hierarchical Clustering  
+- Principal Component Analysis (PCA)  
+- Dimensionality Reduction  
+- Applications: Customer Segmentation, Data Compression  
 
 ---
 
-### Certificate
-![Rutuja Saharkar_Completion (1) (1)_page-0001](https://github.com/user-attachments/assets/2a807574-833a-4ba5-bf3b-524e4ae5d1d8)
+**Author:** Rutuja
 
-
----
-
-**👩‍💻 Author:** Rutuja  
-**🏢 Organization:** Edunet Foundation – Skills4Future Program
